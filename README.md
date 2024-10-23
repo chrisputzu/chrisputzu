@@ -33,7 +33,5 @@ I am a Junior Data Scientist currently pursuing a degree in Data Science, Busine
 
 ---
 
-## GitHub Stats:
-
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisputzu&show_icons=true&theme=default) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisputzu&layout=compact&theme=default) |
 | --- | --- |
