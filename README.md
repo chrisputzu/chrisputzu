@@ -1,14 +1,12 @@
-## About Me:
 I am a Junior Data Scientist currently pursuing a degree in Data Science, Business Analytics, and Innovation at the University of Cagliari. Passionate about coding, I have developed a deep interest in machine learning and data analysis, which naturally led me to the fascinating world of generative AI. I am particularly enthusiastic about chatbots, retrieval-augmented generation (RAG), large language models (LLMs), multimodal agents, and their various applications, especially in the open-source ecosystem.
 
 ---
 
-## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-p-982078126/)
 
 ---
 
-## Tech Stack:
+## Tech Skills:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
