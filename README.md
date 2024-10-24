@@ -30,6 +30,7 @@ I am a Junior Data Scientist currently pursuing a degree in Data Science, Busine
 ![Celonis](https://img.shields.io/badge/Celonis-%23FF5E00.svg?&style=for-the-badge&logo=celonis&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B00.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/chainlit-%23326CE5.svg?&style=for-the-badge&logo=chainlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/gradio-yellow.svg?&style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 
