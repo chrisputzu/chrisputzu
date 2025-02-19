@@ -1,4 +1,4 @@
-I am a Junior Data Scientist currently pursuing a degree in Data Science, Business Analytics, and Innovation at the University of Cagliari. Passionate about coding, I have developed a deep interest in machine learning and data analysis, which naturally led me to the fascinating world of generative AI. I am particularly enthusiastic about chatbots, retrieval-augmented generation (RAG), large language models (LLMs), multimodal agents, and their various applications, especially in the open-source ecosystem.
+I am a Junior Data Scientist with a master's degree in Data Science, Business Analytics, and Innovation at the University of Cagliari. Passionate about coding, I have developed a deep interest in machine learning and data analysis, which naturally led me to the fascinating world of generative AI. I am particularly enthusiastic about chatbots, retrieval-augmented generation (RAG), large language models (LLMs), multimodal agents, and their various applications, especially in the open-source ecosystem.
 
 ---
 
